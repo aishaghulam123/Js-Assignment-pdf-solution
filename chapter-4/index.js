@@ -1,4 +1,4 @@
-/// 1.Declare three var iables in one statement in JavaScript.
+/// 1.Declare three variables in one statement in JavaScript.
 
 ///////////////     Answer       /////////////////////
 
@@ -6,25 +6,25 @@
 
 
 
-/// 2. Declare five legal and five illegal var iable names.
+/// 2. Declare five legal and five illegal variable names.
 
 ///////////////     Answer       /////////////////////
 
 
-//////////// Legal var iables //////////////
-// (1) var myvar iable;
+//////////// Legal variables //////////////
+// (1) var myvariable;
 // (2) var _special;
 // (3) var $price;
-// (4) var var iable123;
+// (4) var variable123;
 // (5)var name;
 
 
 
-//////////// Illegal var iables /////////////
-// (1) var 123var iable;
+//////////// Illegal variables /////////////
+// (1) var 123variable;
 // (2) var first name;
 // (3) var 7eleven;
-// (4) var your-var iable;
+// (4) var your-variable;
 // (5) var &name;
 
 
@@ -33,8 +33,8 @@
 
 ///////////////     Answer       /////////////////////
 
-document.writeln("<h1>Rules for naming JS var iables</h1><br>");
-document.writeln("(a) var iable names can only contain letters, numbers, $ and _Example: $my_1stvar iable");
-document.writeln("<br>(b) var iables must begin with a letter, $ or _ Example:  $name,  _name,  name");
-document.writeln("<br>(c) var iable names are case sensitive");
-document.writeln("<br>(d) var iable names should not be JavaScript keywords")
+document.writeln("<h1>Rules for naming JS variables</h1><br>");
+document.writeln("(a) variable names can only contain letters, numbers, $ and _Example: $my_1stvariable");
+document.writeln("<br>(b) variables must begin with a letter, $ or _ Example:  $name,  _name,  name");
+document.writeln("<br>(c) variable names are case sensitive");
+document.writeln("<br>(d) variable names should not be JavaScript keywords")

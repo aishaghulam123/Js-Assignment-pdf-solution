@@ -1,4 +1,4 @@
-/// 1. Declare var iable called username
+/// 1. Declare variable called username
 
 ///////////////     Answer       /////////////////////
 
@@ -6,7 +6,7 @@
 
 
 
-/// 2. Declare var iable called myName and assign to it a string that represent your fullname
+/// 2. Declare variable called myName and assign to it a string that represent your fullname
 
 ///////////////     Answer       /////////////////////
 
@@ -14,7 +14,7 @@
 
 
 
-/// 3. declare var iable, titled message and assign hello world! to it. display message in alert box
+/// 3. declare variable, titled message and assign hello world! to it. display message in alert box
 
 ///////////////     Answer       /////////////////////
 
@@ -23,7 +23,7 @@
 
 
 
-/// 4. Save Student's Bio data in Js var iables and show the data in alert boxes
+/// 4. Save Student's Bio data in Js variables and show the data in alert boxes
 
 ///////////////     Answer       /////////////////////
 
@@ -36,7 +36,7 @@
 
 
 
-/// 5.Display the alert using one js var iable
+/// 5.Display the alert using one js variable
 
 ///////////////     Answer       /////////////////////
 
@@ -46,7 +46,7 @@
 
 
 
-/// 6.Declare a var iable called email and assign a string that represents your email address.show the message in alert box (use string concatenation)
+/// 6.Declare a variable called email and assign a string that represents your email address.show the message in alert box (use string concatenation)
 
 ///////////////     Answer       /////////////////////
 
@@ -56,7 +56,7 @@
 
 
 
-/// 7.Declare a var iable called book and give it value "A smarter way to learn JavaScript".show the message in alert box
+/// 7.Declare a variable called book and give it value "A smarter way to learn JavaScript".show the message in alert box
 
 ///////////////     Answer       /////////////////////
 
@@ -75,7 +75,7 @@
 
 
 
-/// 9.Store following string in a var iable and show in alert and browser through JS
+/// 9.Store following string in a variable and show in alert and browser through JS
 
 ///////////////     Answer       /////////////////////
 

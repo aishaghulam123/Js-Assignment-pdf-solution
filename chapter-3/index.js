@@ -1,4 +1,4 @@
-/// 1. Declare var iable called age and assign to it to your age. Show your age in alert box
+/// 1. Declare variable called age and assign to it to your age. Show your age in alert box
 
 ///////////////     Answer       /////////////////////
 
@@ -6,7 +6,7 @@
 // alert("I am " + age + " years old");
 
 
-/// 2. Declare and initialize a var iable to count number of visits of a web page and display it in alert and browser.
+/// 2. Declare and initialize a variable to count number of visits of a web page and display it in alert and browser.
 
 ///////////////     Answer       /////////////////////
 
@@ -16,16 +16,16 @@
 
 
 
-/// 3.  Declare var iable called birthYear and assign to it to your birth year. Show message in your browser
+/// 3.  Declare variable called birthYear and assign to it to your birth year. Show message in your browser
 
 ///////////////     Answer       /////////////////////
 
 // var birthYear = 2007;
-// document.writeln("My Birth year is " +birthYear + "<br>Data type of my declared var iable is number");
+// document.writeln("My Birth year is " +birthYear + "<br>Data type of my declared variable is number");
 
 
 
-/// 4. Store visitor name, product title and quantity in var iables and display the message in browser.”
+//2. Store visitor name, product title and quantity in variables and display the message in browser.
 
 ///////////////     Answer       /////////////////////
 

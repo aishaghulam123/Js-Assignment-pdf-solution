@@ -1,4 +1,4 @@
-/// 1. take two number add them in new var iable show result in broweser
+/// 1. take two number add them in new variable show result in broweser
 
 ///////////////     Answer       /////////////////////
 
@@ -50,26 +50,26 @@
 
 ///////////////     Answer       /////////////////////
 
-/////////////////// a) Declare a var iable.
+/////////////////// a) Declare a variable.
 
 // var value;
 
 
-/////////////////// b) show the value of var iable in browser 
+/////////////////// b) show the value of variable in browser 
 
 
-// document.writeln("value after var iable declaration is : " + value )
+// document.writeln("value after variable declaration is : " + value )
 
 
 
-/////////////////// c) Intialize the var iable with some number.
+/////////////////// c) Intialize the variable with some number.
 
 
 // value = 5;
 
 
 
-/////////////////// d) show the value of var iable in browser 
+/////////////////// d) show the value of variable in browser 
 
 
 
@@ -77,21 +77,21 @@
 
 
 
-/////////////////  e)Increment the var iable
+/////////////////  e)Increment the variable
 
 
 // value++;
 
 
 
-////////////////// f) show the value of var iable in browser 
+////////////////// f) show the value of variable in browser 
 
 
 // document.writeln("<br>value after increment is : " + value );  
 
 
 
-////////////////// g)Add 7 to the var iable
+////////////////// g)Add 7 to the variable
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-/////////////////// h) show the value of var iable in browser 
+/////////////////// h) show the value of variable in browser 
 
 
 
@@ -107,14 +107,14 @@
 
 
 
-//////////////////  i)Decrement the var iable
+//////////////////  i)Decrement the variable
 
 
 // value--;
 
 
 
-/////////////////// j) show the value of var iable in browser 
+/////////////////// j) show the value of variable in browser 
 
 
 
@@ -122,14 +122,14 @@
 
 
 
-/////////////////////// k) show the remainder after dividing the var iable's value by 3.
+/////////////////////// k) show the remainder after dividing the variable's value by 3.
 
 
 // var remainder = value % 3;
 
 
 
-/////////////////////// l)show the value of var iable in browser 
+/////////////////////// l)show the value of variable in browser 
 
 
 
@@ -137,7 +137,7 @@
 
 
 
-/// 4. store ticket price 600pkr in var iable & show total cost of buying 5 tickets
+/// 4. store ticket price 600pkr in variable & show total cost of buying 5 tickets
 
 ///////////////     Answer       /////////////////////
 
@@ -161,9 +161,9 @@
 
 
 /// 6.Temperature Converter:
-// a) Store a Celsius value in a var iable.
+// a) Store a Celsius value in a variable.
 // b) Convert it to Fahrenheit and print: “NN°C is NN°F”.
-// c) Store a Fahrenheit value in a var iable.
+// c) Store a Fahrenheit value in a variable.
 // d) Convert it to Celsius and print: “NN°F is NN°C”.
 
 ///////////////     Answer       /////////////////////
@@ -211,7 +211,7 @@
 
 
 /// 8.Percentage Calculator Program:
-// Store total marks and obtained marks in var iables, calculate the percentage, and display the result in the browser.
+// Store total marks and obtained marks in variables, calculate the percentage, and display the result in the browser.
 
 
 ///////////////     Answer       /////////////////////
@@ -270,7 +270,7 @@
 
 
 /// 12. The Geometrizer – Circle Calculation
-// a)Store a radius in a var iable.
+// a)Store a radius in a variable.
 // b)Calculate the circumference using the formula: Circumference = 2 × π × r (π = 3.142)
 // c)Calculate the area using the formula: Area = π × r² (π = 3.142)
 
@@ -291,10 +291,10 @@
 
 
 /// 13.The Lifetime Supply Calculator
-// a)Store your favorite snack in a var iable.
-// b)Store your current age in a var iable.
-// c)Store your maximum age in a var iable.
-// d)Store the estimated amount eaten per day in a var iable.
+// a)Store your favorite snack in a variable.
+// b)Store your current age in a variable.
+// c)Store your maximum age in a variable.
+// d)Store the estimated amount eaten per day in a variable.
 // e)Calculate the total amount needed for the rest of your life.
 
 
