@@ -25,13 +25,13 @@
 
 
 
-//2. Store visitor name, product title and quantity in variables and display the message in browser.
+//4. Store visitor name, product title and quantity in variables and display the message in browser.
 
 ///////////////     Answer       /////////////////////
 
-var visitorName ="John Doe";
-var productTitle ="T-shirt(s)";
-var quantity ="5";
-document.writeln(visitorName + " ordered " + quantity + " " + productTitle + " on XYZ Store" );
+// var visitorName ="John Doe";
+// var productTitle ="T-shirt(s)";
+// var quantity ="5";
+// document.writeln(visitorName + " ordered " + quantity + " " + productTitle + " on XYZ Store" );
 
 

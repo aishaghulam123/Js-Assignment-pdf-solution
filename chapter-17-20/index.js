@@ -199,7 +199,7 @@
 //    document.writeln(` The smallest number is ${smallest} `); 
 
 
-/// 1.Print all multiples of 5 from 1 to 100.
+/// 10.Print all multiples of 5 from 1 to 100.
 
 
 // for (var i= 1; i <= 100; i++) {
